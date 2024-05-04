@@ -1,0 +1,255 @@
+body {
+	margin: 0px !important;
+	padding: 0px !important;
+	background-color: ghostwhite!important;
+}
+.blah li a{
+	color: black!important;
+}
+.img{
+	margin-right: 50px;
+}
+.top{
+	font-size: 12px;
+	color: orange;
+}
+.top:hover{
+	color: orange;
+} 
+.sloop{
+	width: 300px !important;
+	margin-right: 50px;
+}
+.btn{
+ background-color: orange!important;
+ color: white!important;
+ border-color: orange!important;
+}
+.btn:hover{
+	background-color: darkorange!important;
+}
+.bit{
+	padding-top: 5px;
+
+}
+ .slow li a{ 
+ 	margin-top: 0;
+ 	color: black;
+    font-size: 12px;
+    line-height:10px;
+ }
+ .slow li{
+ 	list-style: none;
+    line-height:30px;
+    margin-right: 0px;
+ }
+ .slot{
+ 	height: 30px;
+ 	margin-right: 10px;
+ }
+ .slot1{
+ 	font-size: 12px;
+
+ }
+ .flot{
+ 	height: 30px;
+ 	margin-right: 10px;
+ }
+ .flot1{
+    font-size: 12px;
+ }
+ .lot{
+ 	height: 30px;
+ 	margin-right: 10px;
+ }
+ .lot1{
+ 	font-size: 12px;
+ }
+ .hot{
+     height: 180px;
+     width: 100%;
+     
+ }
+
+.red{
+	background-color: white;
+	width: 260px !important;
+	border-radius: 5px;	
+}
+ .touch{
+ 	padding:8px!important;
+ }
+/* .fort{
+ 	margin-top: 10px;
+ 	margin-left: 85px; 
+
+ }
+ .fort p{
+ 	margin-left: 10px!important;
+ }*/
+.fort img{
+
+	width: 40px;
+}
+
+.seed{
+    border-radius: 8px;
+	width:273px!important;
+	
+}
+.seed img{
+  margin-left: 10px;
+}
+
+.spat{
+  border-radius: 3px; 
+  margin-top: 15px;
+}
+.sill{
+	margin-top: 2px;
+}
+.sip img{
+	border-radius: 3px;
+	height: 200px;
+}
+.sip{
+	font-size: 14px;
+}
+.color{
+	font-size: 12px;
+	color: grey;
+	text-decoration:line-through;
+}
+.slap{
+
+  background-color: red!important;
+
+}
+.Ac{
+	margin-top: 2px;
+
+}
+.star{
+	
+	font-size: 20px;
+	color: white;
+}
+.start{
+	margin-left: 200px;
+	text-decoration: none;
+	color: white!important;	
+}
+.start:hover{
+	text-decoration: none;
+	color: white;
+}
+.deal{
+	font-size: 20px;
+	color: white;
+}
+.loft{
+	height: 220px;
+}
+.dettol{
+	margin-left: 10px;
+	margin-top: 10px;
+	width: 550px;
+}
+.woman{
+	margin-left: 10px;
+	width: 550px;
+	margin-top: 10px; 
+}
+.false{
+  border-radius: 3px; 
+  margin-top: 15px;
+ background-color: goldenrod!important;
+}
+.false1{
+	text-decoration: none;
+	color: white;	
+}
+.false1:hover{
+	text-decoration: none;
+	color: white;
+}
+
+.words{
+	font-size: 11px;
+	text-align: justify;
+}
+
+.word{
+	color: black;
+	text-decoration: underline;
+}
+.word:hover{
+	color: black;
+}
+
+.last{
+	background-color: black;
+	text-align: justify;
+
+}
+.praise{
+	width:400px!important;
+}
+.phrase{
+	margin-left: 12px;
+	background-color:black!important;
+	color:white!important;
+	border: 1px solid white!important;
+		}
+.phrase:hover{
+	color: darkorange!important;
+	background-color: black!important;
+	border:1px solid darkorange!important;
+}	
+.grease{
+	width: 100px;
+	margin-right: 5px;
+	height: 35px;
+	background-color: black!important;
+	border:1px solid white!important;
+}	
+.grease:hover{
+	background-color: black!important;
+	border:1px solid darkorange!important;
+}
+.fancy{
+	color: white;
+}
+.fan{
+	color: grey;
+}
+.heal{
+	list-style-type: none;
+	color: white;
+	font-size: 13px;
+}
+.heal a:hover{
+	color: grey;
+}
+.heal a{
+	color: grey;
+	font-size: 12px;
+}
+.content{
+	margin-top: 40px;
+}
+.special{
+	color:grey;
+	font-size: 15px;
+}
+.setup{
+	list-style-type:none;
+	padding: 0px;
+
+
+}
+.f{
+	height: 20px!mportant;
+}
+
+

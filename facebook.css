@@ -1,0 +1,93 @@
+	body{margin:0;
+		padding: 0;
+	} 
+
+	.h{
+		background: royalblue;
+		color: white;
+		font-family:;
+		border-radius: 4px;
+		
+
+	}
+
+	.fault{
+		background-color:blue;
+	}
+
+
+	.h h1{
+		display: inline-flex;
+		margin-right: 700px;
+
+
+	}
+	.h p{
+		display: inline-block; 
+		padding: 4px;
+		text-align: right;
+
+	}
+	.comfort {
+		font-family: arial;
+		color: midnightblue;
+
+	}
+
+	.come{
+		margin-left: 80px;
+		font-size: 12px;
+		padding-top: 10px;
+		display:inline-block;
+
+	}
+
+	.pic{
+		display: block;
+	}
+
+	.but{
+     width: 550px
+	}
+	.bit{
+		width:380px;
+		margin-left: 150px;
+	}
+
+		.win{
+			margin-left: 200px;
+			text-indent: 5px;
+		}
+
+		.win form{
+			text-align: right;
+			
+			}
+
+		.win input{
+			margin-bottom: 15px;
+		}
+		
+        .win select{
+        	margin-bottom: 15px;
+        }
+		.keep{
+			background-color: lightgreen;
+			color:white;
+		}
+	
+
+	.comfort{
+		background: linear-gradient(white,lightblue);
+		display: flex;
+		}
+		
+	  .life{
+	  	width:450px;
+	  }
+	  .end{
+	  	
+	  
+	  }
+
+
